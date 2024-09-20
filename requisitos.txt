@@ -1,0 +1,21 @@
+Objetivo: Desenvolver um módulo para criação de personagem seguindo as regras do D&D (arquivo já enviado no Black Board) e em linguagem Kotlin.
+
+Requisitos:
+
+- O projeto deve estar em linguagem kotlin, utilizando build em Maven ou Gradle, no IntelliJ, e disponibilizado no seu repositório github (autorizem meu acesso incluindo o e-mail aryelmarlus@hotmail.com).
+- O projeto deve possuir ao menos uma abordagem utilizando o padrão de projeto Strategy.
+- Ele deve ser executável (via main) e criar instância de personagem.
+- O personagem deve possuir os atributos descritos no livro (Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma) e também os pontos de vida (utilizar um valor padrão de 10 + modificador de constituição).
+- O módulo deve possuir o sistema de distribuição de atributos personalizado (onde o usuário distribui 27 pontos) obrigatoriamente, atente-se aos custos no documento. Os modos aleatório e pré-definido não são obrigatórios para esta entrega.
+- O personagem deve possuir os bônus raciais de cada uma das raças (implementar todas).
+- Não é obrigatório se preocupar com as classes neste momento.
+- Junits não são obrigatórios, mas recomendados e serão um ponto extra.
+
+
+Entrega: Enviar o projeto 'zipado no Black Board e incluir o professor no github, será considerado no git a versão que foi fechada na data limite para a entrega.
+
+Critérios de avaliação:
+- Conseguir criar personagem segundo as especificações no documento, utilizando o método de distribuição dos 27 pontos e com os bônus raciais corretos (o professor vai tentar criar personagens com diferentes classes e enviar valores maiores que o limite para os atributos): 30%
+- Utilizar o padrão strategy: 30%
+- Apresentação/defesa do código – apresentar o sistema e o racional para suas decisões, o professor pode fazer perguntas: 40%
+- Ponto extra: 10% para a criação de JUnits (110%)

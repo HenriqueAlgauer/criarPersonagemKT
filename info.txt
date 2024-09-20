@@ -1,0 +1,45 @@
+-> Atributos Raça
+  - Idioma inicial
+  - deslocamento base
+
+-> Classes
+  -
+
+-> Proficiências
+  - armaduras
+  - armas
+  - perícias
+  - teste de resistência
+  - ferramentas
+
+-> Atributos do personagem
+  - nível (XP)
+  - pontos de vida [determinado pelo dado da vida | dado de vida é determinado pelo classe | começa com uma quantidade de PV igual á jogada mais elevada possível para aquele dado]
+  - tipo de dado
+  - qnt. dados de vida [ após "Descanso", pode gastar 1 dado de Vida para recuperar PV
+  - proeficiências
+  - bônus de proeficiências [pode ser mutável (dobro ou metade, por exemplo) a classe determina a proefiência em questão ] [ não pode ser multiplicado/dividido +1/vez   por rolagem de dado ]
+
+-> Habilidades [4 dados de 6 lados em que é somado os 3 maiores valores]
+  - Força
+  - Destreza
+  - Constituição
+  - Inteligência
+  - Sabedoria
+  - Carisma
+
+
+
+PROEFIÊNCIAS:
+Jogadas de ataque com armas que você é proficiente
+• Jogadas de ataque com magias que você conjura
+• Testes de habilidade usando perícias que você é
+proficiente
+• Testes de habilidade usando ferramentas que você é
+proficiente
+• Testes de resistência que você é proficiente
+• CD dos testes de resistência das magias que você pode
+conjurar (explicado em cada classe conjuradora de
+magias)
+
+
